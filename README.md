@@ -1,3 +1,5 @@
+<img src="Banner.png"/>
+
 # Hi! I'm Daniel Ochoa
 
 ## 💫 About Me:

@@ -1,3 +1,5 @@
+<img src="Banner.png">
+
 # Hi 👋, I'm Daniel Ochoa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielochoa1214&label=Profile%20views&color=0e75b6&style=flat" alt="danielochoa1214" /> </p>
 

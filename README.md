@@ -3,8 +3,10 @@
 ## 💫 About Me:
 ****
 
+You can contact me through danochoa1412@gmail.com
 
-## 🌐 Socials:
+
+## 🌐 Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-sebastian-ochoa-urrego) 
 
 

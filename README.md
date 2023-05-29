@@ -7,7 +7,7 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/daniel-sebastián-ochoa-urrego" target="blank">
+  <a href="https://www.linkedin.com/in/daniel-sebastian-ochoa-urrego/" target="blank">
     <img align="center"                  
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel sebastián ochoa urrego" height="30" width="40" />
   </a>

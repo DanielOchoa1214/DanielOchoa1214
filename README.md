@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Ochoa</h1>
+# Hi 👋, I'm Daniel Ochoa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielochoa1214&label=Profile%20views&color=0e75b6&style=flat" alt="danielochoa1214" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielochoa1214" alt="danielochoa1214" /></a> </p>

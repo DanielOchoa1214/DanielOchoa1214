@@ -6,7 +6,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-sebastian-ochoa-urrego) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() 
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/danielochoa1412) 
 
 
 # 💻 Tech Stack:

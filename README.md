@@ -9,7 +9,7 @@ My skills span across various technologies, including Java Spring Boot and Pytho
 
 Visit my repositories listed below to browse a variety of personal projects and class assignments. You can contact me at danochoa1412@gmail.com if you're interested in interacting or working together. 
 
-## Cool projects I've made
+## Some Cool Projects
 *******
 
 # 💻 Tech Stack:

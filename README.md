@@ -15,15 +15,15 @@ Visit my repositories listed below to browse a variety of personal projects and 
 ## Some Cool Projects
 ### VsWordle
 
-VsWordle is a school project for a Software Arquiteture class. It's a mechanography game where you compete with other players to type the fastest. This game is separated in 3 projects, a FrontEnd, a stateless BackEnd API that provides all logic an services for the user, capable of handling concurrent requests and since is stateless is capable of horizontal scalability, and lastly an Event Server, which is responsable for handing all the realtime of the app.
+VsWordle is a school project for the Software Arquiteture class. It's a mechanography game where you compete with other players on several rounds where the faster typer wins. This game is separated in 3 projects, a FrontEnd, a stateless BackEnd API that provides all logic an services for the user, capable of handling concurrent requests and since is stateless is capable of horizontal scalability, and lastly an Event Server, which is responsable for handling the realtime of the app with a WebSocket implementation.
 
 ### Insecure OTP Validator
 
-The Insecure OTP Validator App is a school project for a Security class, in which with a partner we developed a porpusfuly insecure login app where we displayed the most common insecure practices that exists in companies that try to implement a recovery password system on their own.
+The Insecure OTP Validator App is a school project for a Security class, in which with a partner we developed a purposefully insecure login app where we displayed the most common insecure practices that exists in companies that try to implement a recovery password system on their own.
 
 ### Twitter WannaBe
 
-This was my first FrontEnd project, it is a scaled down Twitter replica that has a very simple login system, a couple of predefined profiles an off course the capability of Tweeting, liking, retweeting and repling. 
+This was my first FrontEnd project, it is a scaled down Twitter replica that has a simple login system, a couple of predefined profiles and off course the capability of Tweeting, liking, retweeting and replying. 
 
 ## 🌐 Connect with me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-sebastian-ochoa-urrego) 

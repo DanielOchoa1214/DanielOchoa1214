@@ -15,7 +15,7 @@ Visit my repositories listed below to browse a variety of personal projects and 
 ## Some Cool Projects
 ### VsWordle
 
-<img src="VsWordle.gif" alt="Super cool VsWordle demo">
+<img src="VsWordle.gif" alt="Super cool VsWordle demo" width="500">
 
 VsWordle is a school project for the Software Arquiteture class. It's a mechanography game where you compete with other players on several rounds where the faster typer wins. This game is separated in 3 projects, a FrontEnd, a stateless BackEnd API that provides all logic an services for the user, capable of handling concurrent requests and since is stateless is capable of horizontal scalability, and lastly an Event Server, which is responsable for handling the realtime of the app with a WebSocket implementation.
 

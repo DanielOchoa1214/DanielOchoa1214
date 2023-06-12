@@ -21,9 +21,13 @@ VsWordle is a school project for the Software Arquiteture class. It's a mechanog
 
 ### Insecure OTP Validator
 
+<img src="OTP.gif" alt="Mindblowing Insecure OTP Validator Demo" width="500">
+
 The Insecure OTP Validator App is a school project for a Security class, in which with a partner we developed a purposefully insecure login app where we displayed the most common insecure practices that exists in companies that try to implement a recovery password system on their own.
 
 ### Twitter WannaBe
+
+<img src="Twitter.gif" alt="Astonishing Twitter WannaBe Demo" width="500">
 
 This was my first FrontEnd project, it is a scaled down Twitter replica that has a simple login system, a couple of predefined profiles and off course the capability of Tweeting, liking, retweeting and replying. 
 

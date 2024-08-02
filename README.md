@@ -21,9 +21,9 @@ VsWordle is a school project for the Software Architecture class. It's a mechano
 
 ### ArriendamEsta
 
-<img src="VsWordle.gif" alt="Super cool VsWordle demo" width="500">
+<img src="Proyecto-IETI.gif" alt="Super cool VsWordle demo" width="500">
 
-ArriendamEsta is a school project for the  IETI class. It's a social network focused on people who are trying to find a place to rent, and people interested in renting their place. With this app, we intend to solve common problems that occur when a new renting relationship begins by having a rating system for both the tenants, landlords, and the place itself. With it, all interested parties may look at past reviews from people who lived in a given place and make a more informed decision. The app itself was built into 3 projects, a Web FrontEnd created with React, a Mobile FrontEnd created for Android with Java, and a BackEnd created with SpringBoot. 
+ArriendamEsta is a school project for the IT Inovation class. It's a social network focused on people who are trying to find a place to rent, and people interested in renting their place. With this app, we intend to solve common problems that occur when a new renting relationship begins by having a rating system for both the tenants, landlords, and the place itself. With it, all interested parties may look at past reviews from people who lived in a given place and make a more informed decision. The app itself was built into 3 projects, a Web FrontEnd created with React, a Mobile FrontEnd created for Android with Java, and a BackEnd created with SpringBoot. 
 
 ### Insecure OTP Validator
 

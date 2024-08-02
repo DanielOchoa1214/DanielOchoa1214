@@ -3,9 +3,9 @@
 # Hi! I'm Daniel Ochoa
 
 ## 💫 About Me:
-I'm a passionate and driven systems engineering student at Escuela Colombiana de Ingenieria Julio Garavito with a strong interest in software and web development. with a strong basis in algorithms, Scrum work techniques, and object-oriented programming.
+I'm a passionate and driven systems engineer from Escuela Colombiana de Ingenieria Julio Garavito with a strong interest in software and web development and a strong basis in algorithms, Scrum work techniques, and object-oriented programming.
 
-My skills span across various technologies, including Java Spring Boot for backend development. I also have experience with Angular, CSS, HTML, Vanilla JavaScript, and Java Spring for creating engaging user interfaces. Throughout my academic journey, I've been honing my skills in problem-solving and algorithm design to create efficient and scalable solutions.
+My skills span across various technologies, including Java Spring Boot for backend development. I also have experience with React, Angular, CSS, HTML, Vanilla JavaScript, and Java Spring for creating engaging user interfaces. Throughout my journey, I've been honing my skills in problem-solving and algorithm design to create efficient and scalable solutions.
 
 Visit my repositories listed below to browse a variety of personal projects and class assignments. You can contact me at danochoa1412@gmail.com if you're interested in interacting or working together. 
 
@@ -17,13 +17,19 @@ Visit my repositories listed below to browse a variety of personal projects and 
 
 <img src="VsWordle.gif" alt="Super cool VsWordle demo" width="500">
 
-VsWordle is a school project for the Software Arquiteture class. It's a mechanography game where you compete with other players on several rounds where the faster typer wins. This game is separated in 3 projects, a FrontEnd, a stateless BackEnd API that provides all logic an services for the user, capable of handling concurrent requests and since is stateless is capable of horizontal scalability, and lastly an Event Server, which is responsable for handling the realtime of the app with a WebSocket implementation.
+VsWordle is a school project for the Software Architecture class. It's a mechanography game where you compete with other players on several rounds where the faster typer wins. This game is separated into 3 projects, a FrontEnd, a stateless BackEnd API that provides all logic and services for the user capable of handling concurrent requests and since is stateless is capable of horizontal scalability, and lastly, an Event Server, which is responsible for handling the realtime of the app with a WebSocket implementation.
+
+### ArriendamEsta
+
+<img src="VsWordle.gif" alt="Super cool VsWordle demo" width="500">
+
+ArriendamEsta is a school project for the  IETI class. It's a social network focused on people who are trying to find a place to rent, and people interested in renting their place. With this app, we intend to solve common problems that occur when a new renting relationship begins by having a rating system for both the tenants, landlords, and the place itself. With it, all interested parties may look at past reviews from people who lived in a given place and make a more informed decision. The app itself was built into 3 projects, a Web FrontEnd created with React, a Mobile FrontEnd created for Android with Java, and a BackEnd created with SpringBoot. 
 
 ### Insecure OTP Validator
 
 <img src="OTP.gif" alt="Mindblowing Insecure OTP Validator Demo" width="500">
 
-The Insecure OTP Validator App is a school project for a Security class, in which with a partner we developed a purposefully insecure login app where we displayed the most common insecure practices that exists in companies that try to implement a recovery password system on their own.
+The Insecure OTP Validator App is a school project for a Security class, in which with a partner we developed a purposefully insecure login app where we displayed the most common insecure practices that exist in companies that try to implement a recovery password system on their own.
 
 ### Twitter WannaBe
 
